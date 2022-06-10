@@ -1,6 +1,6 @@
 # Vadym Rusyn
 ## Contacts
-* **Location:** Mukachevo
+* **Location:** city Mukachevo
 * **Email:** vadymrusyn92@gmail.com
 * **github:** vadamych
 
